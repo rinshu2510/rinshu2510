@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rinshu Kumar Singh
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Machine Learning
-- 💞️ I’m looking to collaborate on MERN project,java project,Machine Learning
+- 💞️ I’m looking to collaborate on MERN project, Java project, Machine Learning
 - 📫 How to reach me https://www.linkedin.com/in/rinshu-kumar-singh-6a48331a0/
 
 <!---
